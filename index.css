@@ -1,0 +1,32 @@
+h1 {
+    color: rgb(243, 243, 247);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+}
+
+span {
+    background: rgba(255, 255, 255, 0.3);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(4px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    margin-left: 10px;
+    padding: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgba(31, 24, 23, 0.986);
+}
+
+body {
+    background-image: url("https://w0.peakpx.com/wallpaper/143/818/HD-wallpaper-nature-nature.jpg");
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
